@@ -39,23 +39,6 @@ Welcome to my beginner-friendly JavaScript repository! This repo is all about th
 
 ---
 
-## 🛠️ How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/js-basics.git
-   ```
-2. Navigate to the folder:
-   ```bash
-   cd js-basics
-   ```
-3. Open the `.js` files in your code editor and experiment with the examples.
-4. Run the code using your browser's console or with Node.js.
-   ```bash
-   node file-name.js
-   ```
-
----
 
 ## 🌟 Why I Made This
 I'm learning JavaScript and wanted to share my progress. Writing and organizing my examples here helps me understand better and keep track of my journey. If you're also a beginner, feel free to fork this repo and add your own examples or improvements!
